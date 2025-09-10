@@ -784,7 +784,7 @@
     "@typescript-eslint/parser": "^5.11.0",
     "copy-webpack-plugin": "^7.0.0",
     "css-loader": "^6.8.1",
-    "esbuild": "^0.17.3",
+    "esbuild": "^0.25.6",
     "eslint": "^8.8.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-config-airbnb-typescript": "^16.1.0",
@@ -825,12 +825,12 @@
     "lunr": "^2.3.9",
     "marked": "^5.1.2",
     "p-retry": "^6.1.0",
-    "prismjs": "^1.29.0",
+    "prismjs": "^1.30.0",
     "semver": "^7.3.8",
     "strip-json-comments": "^4.0.0",
     "throttle-debounce": "^5.0.0",
     "utf8": "^3.0.0",
     "uuid": "^9.0.0",
-    "ws": "^8.14.2"
+    "ws": "^7.5.10"
   }
 }
